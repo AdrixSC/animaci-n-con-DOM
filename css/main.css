@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(243, 243, 74);
+}
+
+h1 {
+    font-family: sans-serif;
+    color: rgb(199, 15, 128);
+    text-align: center;
+}
+
+#boxes {
+    margin-left: 35%;
+    margin-top: 50px;
+    width: 450px;
+}
+
+.box {
+    background-color: white;
+    display: inline-block;
+    margin: 2px;
+    height: 100px;
+    width: 100px;
+}
+
+.active {
+    background-color: rgb(199, 15, 128);
+}
